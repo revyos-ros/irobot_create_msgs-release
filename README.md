@@ -1,3 +1,26 @@
+## irobot_create_msgs (jazzy) - 3.0.0-3
+
+The packages in the `irobot_create_msgs` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy irobot_create_msgs --override-release-repository-push-url git@github.com:revyos-ros/irobot_create_msgs-release` on `Mon, 24 Jun 2024 04:03:34 -0000`
+
+The `irobot_create_msgs` package was released.
+
+Version of package(s) in repository `irobot_create_msgs`:
+
+- upstream repository: https://github.com/iRobotEducation/irobot_create_msgs.git
+- release repository: https://github.com/revyos-ros/irobot_create_msgs-release.git
+- rosdistro version: `2.1.0-4`
+- old version: `3.0.0-2`
+- new version: `3.0.0-3`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## irobot_create_msgs (jazzy) - 3.0.0-2
 
 The packages in the `irobot_create_msgs` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --rosdistro jazzy irobot_create_msgs` on `Sat, 15 Jun 2024 17:24:31 -0000`
